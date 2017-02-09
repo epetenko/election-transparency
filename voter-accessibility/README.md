@@ -1,4 +1,5 @@
 A Summary of the voter registration laws by state:
 
 - **Colorado**: Online (with drivers license), mail-in, and in-person registration
-- **Texas**: Register by mail-in application (must have ink signature of applicant) only within county of residence
+- **Texas**: Register by mail-in application (must have ink signature of applicant) only within county of residence   
+-**New Jersey**: New Jersey voter registration forms are available on the [Division of Elections website](http://www.state.nj.us/state/elections/voting-information.html). Once completed, they must be mailed or hand-delivered to the local county commissioner or superintendent of elections, or to the New Jersey state Division of Elections. Each county form on the website is already labeled with the mailing address. There is currently no way to register to vote online in New Jersey, but residents can also register at their local Motor Vehicle Commissions, agencies offering public assistance, and a handful of other government locations, according to [Rock the Vote](http://www.rockthevote.com/get-informed/elections/state/new-jersey.html?referrer=https://www.google.com/#Registering to Vote)  
